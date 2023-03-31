@@ -1,0 +1,37 @@
+h1
+{
+    color:red;
+}
+h2{
+    color:rgb(238, 69, 40);
+    font-style: italic;
+}
+.con
+{
+    color:rgb(195, 43, 226);
+    line-height: 50px;;
+}
+.lt{
+    text-decoration: line-through;
+}
+.bg{
+    background-color: yellow;
+    font-weight: bold;
+}
+.bt{
+    font-style:italic;
+    text-decoration:underline;
+}
+.con2{
+    letter-spacing: 5px;
+    color:rgb(195, 43, 226);
+
+}
+.con3{
+    color:rgb(195, 43, 226);
+}
+a{
+    text-decoration: none;
+    background-color: yellow;
+    font-style: italic;
+}
